@@ -1,0 +1,12 @@
+body{
+  margin: 0;
+}
+
+.stars{
+  display: inline-block;
+  border: 1px solid red;
+}
+
+.stars_linc{
+padding: 2px;
+}
